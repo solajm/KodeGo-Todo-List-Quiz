@@ -54,7 +54,7 @@ const App = () => {
     <Helmet>
         <title>Todo List</title>
        <link rel="icon"
-          href='public/icon.png'/>
+          href='./icon.png'/>
         </Helmet>
     <div className="app-wrapper shadow-lg">
       <h1 className="display-6 p-4 text-center">Todo List</h1>
